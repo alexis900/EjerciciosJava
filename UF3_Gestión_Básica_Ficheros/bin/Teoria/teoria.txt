@@ -1,0 +1,13 @@
+Operacions bàsiques amb fitxers
+
+Operacions bàsiques amb fitxers:
+
+	- Obrir fitxer, pot llegit-ho, escriure o crear-lo
+	- Llegir
+	- Escriure
+	- Tancar el fitxer 
+	
+	Escriptura
+	---------------------
+	FileOutputSteam(filename, true) --> True = append
+	PrintStream sortida = new PrintStream(fitxer);

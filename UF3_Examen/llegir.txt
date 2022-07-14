@@ -1,0 +1,6 @@
+Aquest és un fitxer de prova
+El seu contingut és de 6 línies
+Aquesta és la tercera
+El mètode ha de funcionar
+amb qualsevol fitxer
+Punt i final.
